@@ -1,1 +1,1 @@
-# Supplementary material for IETS line shape simulation.
+# IETS line shape supplementary material.
